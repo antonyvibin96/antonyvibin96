@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Antony
-- 👀 I’m interested in Developing something iam curious about.
-- 🌱 I’m currently learning something...
+- 👀 I’m interested in experimenting with code.
+- 🌱 I’m currently learning something out of curiosity
